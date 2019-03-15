@@ -1,0 +1,25 @@
+.navbar {
+    background-color:#40E0D0;
+    border-color:#FF69B4;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color:#7FFFD4;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color:#87CEFA;
+}
+
+.navbar-inverse .navbar-brand{
+    color:#7FFFD4;
+    }
+
+.navbar-inverse .navbar-brand:hover{
+    color:#87CEFA;
+}
+
+img{
+    margin-left:auto;
+    margin-right:auto;
+}
